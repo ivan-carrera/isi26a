@@ -1,0 +1,821 @@
+id_transaccion,codigo_producto,nombre_producto,precio_unitario,cantidad,subtotal_linea
+TX-0001,L009,Queso parmesano rallado 80g,2.0,1,2.0
+TX-0001,S005,Cheetos 80g,1.0,2,2.0
+TX-0002,G010,Crema de afeitar 100ml,1.8,2,3.6
+TX-0003,A010,Sal 500g,0.35,1,0.35
+TX-0003,G025,Maquinilla depiladora,1.5,2,3.0
+TX-0003,S025,Granola 200g,1.8,3,5.4
+TX-0004,A031,Lentejas 500g,1.1,2,2.2
+TX-0005,A003,Arroz 5kg,4.2,1,4.2
+TX-0005,C012,Detergente polvo 500g,1.6,2,3.2
+TX-0006,L001,Yogur natural 200g,0.75,1,0.75
+TX-0006,FV09,Uva roja 500g,2.0,3,6.0
+TX-0007,B029,Limonada 500ml,0.9,1,0.9
+TX-0008,G012,Curitas x20,1.2,3,3.6
+TX-0008,B023,Leche semidescremada 1L,1.05,1,1.05
+TX-0008,S007,Maiz tostado 100g,0.6,2,1.2
+TX-0008,P005,Pan pita x6,1.8,2,3.6
+TX-0009,A024,Vinagre 500ml,0.8,3,2.4
+TX-0009,L011,Margarina 250g,1.2,2,2.4
+TX-0010,FV15,Brocoli 500g,0.8,3,2.4
+TX-0010,FV09,Uva roja 500g,2.0,3,6.0
+TX-0011,P001,Pan de molde integral,1.8,1,1.8
+TX-0011,S015,Barra de cereal 35g,0.6,2,1.2
+TX-0012,L011,Margarina 250g,1.2,2,2.4
+TX-0012,S001,Papas Lays 90g,1.1,1,1.1
+TX-0013,P012,Muffin de vainilla,0.8,1,0.8
+TX-0014,A017,Pasta coditos 500g,0.85,1,0.85
+TX-0014,A005,Aceite de oliva 500ml,5.5,1,5.5
+TX-0014,C012,Detergente polvo 500g,1.6,2,3.2
+TX-0014,B024,Leche deslactosada 1L,1.2,3,3.6
+TX-0015,G018,Toallas higienicas x8,2.5,2,5.0
+TX-0015,FV10,Limon x6,0.5,1,0.5
+TX-0016,A009,Panela 1kg,0.7,2,1.4
+TX-0016,P001,Pan de molde integral,1.8,1,1.8
+TX-0017,A033,Miel de abeja 350g,3.5,2,7.0
+TX-0017,C012,Detergente polvo 500g,1.6,2,3.2
+TX-0017,S003,Papas Pringles 124g,2.5,2,5.0
+TX-0018,G009,Afeitadora x2,2.5,2,5.0
+TX-0018,G021,Toallas humedas x20,1.8,2,3.6
+TX-0018,FV08,Pera x4,1.3,1,1.3
+TX-0018,A023,Salsa de soya 150ml,1.2,2,2.4
+TX-0018,S020,Gomas de fresa 100g,0.8,1,0.8
+TX-0019,G014,Agua oxigenada 250ml,0.9,3,2.7
+TX-0019,L012,Huevos x6,1.3,2,2.6
+TX-0020,B001,Agua mineral 500ml,0.5,1,0.5
+TX-0020,B029,Limonada 500ml,0.9,1,0.9
+TX-0020,C004,Shampoo 400ml,3.5,3,10.5
+TX-0020,C012,Detergente polvo 500g,1.6,2,3.2
+TX-0021,L013,Huevos x12,2.5,3,7.5
+TX-0021,CM02,Mortadela 200g,1.5,2,3.0
+TX-0022,CM07,Pollo molido 500g,2.5,1,2.5
+TX-0022,L019,Provolone 200g,2.8,2,5.6
+TX-0022,S022,Caramelos surtidos 100g,0.75,1,0.75
+TX-0022,FV15,Brocoli 500g,0.8,3,2.4
+TX-0022,B006,Sprite 600ml,1.2,1,1.2
+TX-0023,C023,Guantes latex M,1.2,2,2.4
+TX-0023,P001,Pan de molde integral,1.8,2,3.6
+TX-0023,S020,Gomas de fresa 100g,0.8,1,0.8
+TX-0023,CM04,Chorizo 250g,2.5,2,5.0
+TX-0023,B026,Cocoa en polvo 400g,2.5,2,5.0
+TX-0024,A018,Pasta fideos 500g,0.8,2,1.6
+TX-0024,C019,Desinfectante piso 1L,2.0,2,4.0
+TX-0024,FV09,Uva roja 500g,2.0,1,2.0
+TX-0024,S016,Chocolatin 40g,0.7,2,1.4
+TX-0025,G011,Algodon 100g,1.0,3,3.0
+TX-0025,A032,Arvejas 500g,1.0,1,1.0
+TX-0025,G021,Toallas humedas x20,1.8,2,3.6
+TX-0025,S014,Mani salado 100g,0.7,3,2.1
+TX-0025,B020,Te helado limon 500ml,1.0,1,1.0
+TX-0026,C021,Esponjas x3,1.0,3,3.0
+TX-0027,L012,Huevos x6,1.3,1,1.3
+TX-0027,S013,Mani con chocolate 50g,0.8,2,1.6
+TX-0027,S005,Cheetos 80g,1.0,1,1.0
+TX-0027,G001,Desodorante roll-on 50ml,2.8,1,2.8
+TX-0028,A023,Salsa de soya 150ml,1.2,3,3.6
+TX-0028,B015,Energizante Red Bull 250ml,2.8,2,5.6
+TX-0029,G019,Tampones x8,2.8,3,8.4
+TX-0029,A004,Aceite vegetal 1L,2.2,1,2.2
+TX-0029,B019,Powerade uva 600ml,1.25,3,3.75
+TX-0030,CM01,Salchicha 250g,1.8,3,5.4
+TX-0031,CM05,Salami 150g,2.2,3,6.6
+TX-0032,G008,Hilo dental 50m,1.0,3,3.0
+TX-0032,G006,Cepillo dental medio,1.2,1,1.2
+TX-0033,P004,Tostadas x20,1.3,3,3.9
+TX-0033,S016,Chocolatin 40g,0.7,1,0.7
+TX-0034,A007,Azucar blanca 1kg,0.75,1,0.75
+TX-0034,G025,Maquinilla depiladora,1.5,1,1.5
+TX-0035,S013,Mani con chocolate 50g,0.8,2,1.6
+TX-0035,CM09,Nuggets de pollo 300g,3.0,2,6.0
+TX-0036,P002,Pan de molde blanco,1.5,1,1.5
+TX-0037,S002,Papas Ruffles 90g,1.1,1,1.1
+TX-0037,C002,Jabon de bano x3,1.5,1,1.5
+TX-0037,A020,Mayonesa 200g,1.0,2,2.0
+TX-0038,B009,Big Cola 1.5L,1.0,3,3.0
+TX-0038,A007,Azucar blanca 1kg,0.75,1,0.75
+TX-0038,L015,Crema de leche 250ml,1.2,3,3.6
+TX-0039,A018,Pasta fideos 500g,0.8,1,0.8
+TX-0039,C007,Papel higienico x4,1.8,1,1.8
+TX-0039,FV09,Uva roja 500g,2.0,3,6.0
+TX-0039,CM09,Nuggets de pollo 300g,3.0,2,6.0
+TX-0040,B025,Leche de chocolate 1L,1.3,1,1.3
+TX-0040,A022,Mostaza 200g,0.9,1,0.9
+TX-0040,B002,Agua con gas 500ml,0.65,1,0.65
+TX-0040,C020,Limpiador multiusos 500ml,1.8,3,5.4
+TX-0040,B008,Pepsi 600ml,1.15,2,2.3
+TX-0041,B001,Agua mineral 500ml,0.5,1,0.5
+TX-0041,G015,Protector solar FPS50,4.5,3,13.5
+TX-0042,A022,Mostaza 200g,0.9,3,2.7
+TX-0042,S004,Doritos nachos 90g,1.2,1,1.2
+TX-0042,A033,Miel de abeja 350g,3.5,2,7.0
+TX-0043,FV09,Uva roja 500g,2.0,2,4.0
+TX-0043,B026,Cocoa en polvo 400g,2.5,3,7.5
+TX-0044,FV01,Papas 1kg,0.8,1,0.8
+TX-0044,L011,Margarina 250g,1.2,3,3.6
+TX-0045,L006,Queso fresco 250g,1.8,1,1.8
+TX-0046,C019,Desinfectante piso 1L,2.0,3,6.0
+TX-0046,B019,Powerade uva 600ml,1.25,2,2.5
+TX-0046,L007,Queso mozzarella 200g,2.2,2,4.4
+TX-0046,L010,Mantequilla 100g,1.5,1,1.5
+TX-0046,P008,Tortillas de harina x8,1.5,1,1.5
+TX-0047,B013,Jugo de mango 500ml,1.1,2,2.2
+TX-0047,G020,Pañal bebe talla M x10,5.0,1,5.0
+TX-0048,S021,Chicle Trident x12,0.6,1,0.6
+TX-0048,FV11,Mandarina x6,0.9,1,0.9
+TX-0048,A004,Aceite vegetal 1L,2.2,2,4.4
+TX-0049,A026,Oregano 20g,0.5,1,0.5
+TX-0049,B015,Energizante Red Bull 250ml,2.8,2,5.6
+TX-0050,A002,Arroz 2kg,1.75,2,3.5
+TX-0051,B008,Pepsi 600ml,1.15,1,1.15
+TX-0052,G016,Crema humectante 200ml,3.0,1,3.0
+TX-0053,C003,Jabon en barra 150g,0.8,2,1.6
+TX-0053,A019,Salsa de tomate 500g,1.3,3,3.9
+TX-0053,C018,Cloro 1L,1.2,3,3.6
+TX-0054,C011,Servilletas x100,1.2,1,1.2
+TX-0054,L008,Queso cheddar 150g,2.5,1,2.5
+TX-0054,B017,Gatorade naranja 600ml,1.3,2,2.6
+TX-0055,G010,Crema de afeitar 100ml,1.8,2,3.6
+TX-0055,L008,Queso cheddar 150g,2.5,3,7.5
+TX-0055,S025,Granola 200g,1.8,1,1.8
+TX-0055,A024,Vinagre 500ml,0.8,3,2.4
+TX-0055,G021,Toallas humedas x20,1.8,3,5.4
+TX-0056,L018,Leche evaporada 400ml,1.8,2,3.6
+TX-0057,C006,Acondicionador 400ml,3.5,3,10.5
+TX-0057,L006,Queso fresco 250g,1.8,3,5.4
+TX-0057,G005,Cepillo dental suave,1.2,1,1.2
+TX-0058,A027,Ajo en polvo 50g,0.7,2,1.4
+TX-0058,CM01,Salchicha 250g,1.8,3,5.4
+TX-0058,C001,Jabon de manos 250ml,1.2,1,1.2
+TX-0059,A015,Tomate en lata 400g,1.0,2,2.0
+TX-0059,S020,Gomas de fresa 100g,0.8,3,2.4
+TX-0060,L001,Yogur natural 200g,0.75,3,2.25
+TX-0060,S023,Paleta de chocolate,0.5,1,0.5
+TX-0060,G021,Toallas humedas x20,1.8,1,1.8
+TX-0061,S016,Chocolatin 40g,0.7,1,0.7
+TX-0061,FV06,Naranja x6,1.0,2,2.0
+TX-0061,A017,Pasta coditos 500g,0.85,1,0.85
+TX-0062,P003,Pan de molde de ajo,2.0,2,4.0
+TX-0062,L010,Mantequilla 100g,1.5,3,4.5
+TX-0062,FV12,Maracuya 500g,1.0,1,1.0
+TX-0062,S011,Galletas Ritz 100g,1.3,1,1.3
+TX-0062,CM03,Jamon de pierna 200g,2.0,3,6.0
+TX-0063,G004,Pasta dental blanqueadora,1.8,3,5.4
+TX-0063,A034,Mermelada fresa 300g,1.8,2,3.6
+TX-0063,L001,Yogur natural 200g,0.75,2,1.5
+TX-0064,S009,Galletas Oreo 120g,1.5,3,4.5
+TX-0064,S019,M&Ms 45g,1.5,1,1.5
+TX-0064,P010,Donuts x4,2.0,3,6.0
+TX-0065,C018,Cloro 1L,1.2,1,1.2
+TX-0065,A022,Mostaza 200g,0.9,3,2.7
+TX-0066,B022,Leche entera 1L,0.95,1,0.95
+TX-0066,B003,Agua mineral 1.5L,0.9,1,0.9
+TX-0066,A019,Salsa de tomate 500g,1.3,1,1.3
+TX-0066,B023,Leche semidescremada 1L,1.05,1,1.05
+TX-0066,A028,Pimienta negra 30g,0.8,1,0.8
+TX-0067,FV07,Banano x6,0.6,3,1.8
+TX-0067,P005,Pan pita x6,1.8,3,5.4
+TX-0067,S015,Barra de cereal 35g,0.6,3,1.8
+TX-0068,P002,Pan de molde blanco,1.5,2,3.0
+TX-0068,A014,Frijoles en lata 400g,1.1,3,3.3
+TX-0069,P015,Wafer de vainilla 150g,1.1,2,2.2
+TX-0069,L001,Yogur natural 200g,0.75,3,2.25
+TX-0069,S004,Doritos nachos 90g,1.2,3,3.6
+TX-0069,B012,Jugo Del Valle 500ml,1.1,3,3.3
+TX-0069,FV05,Manzana roja x4,1.2,1,1.2
+TX-0070,S012,Galletas de coco 100g,0.9,1,0.9
+TX-0070,G005,Cepillo dental suave,1.2,3,3.6
+TX-0070,P014,Churros empacados 100g,1.2,3,3.6
+TX-0070,C018,Cloro 1L,1.2,3,3.6
+TX-0071,S003,Papas Pringles 124g,2.5,1,2.5
+TX-0071,A022,Mostaza 200g,0.9,1,0.9
+TX-0072,C017,Lavavajillas 1L,2.5,3,7.5
+TX-0072,P010,Donuts x4,2.0,3,6.0
+TX-0073,S021,Chicle Trident x12,0.6,1,0.6
+TX-0073,G013,Alcohol 70% 250ml,1.5,3,4.5
+TX-0073,S011,Galletas Ritz 100g,1.3,1,1.3
+TX-0073,B011,Jugo Natura mango 1L,1.5,2,3.0
+TX-0074,G015,Protector solar FPS50,4.5,2,9.0
+TX-0074,A007,Azucar blanca 1kg,0.75,1,0.75
+TX-0074,L012,Huevos x6,1.3,1,1.3
+TX-0074,B027,Cafe instantaneo 100g,2.2,2,4.4
+TX-0074,S023,Paleta de chocolate,0.5,3,1.5
+TX-0075,G002,Desodorante spray 150ml,3.0,3,9.0
+TX-0075,S002,Papas Ruffles 90g,1.1,3,3.3
+TX-0076,L019,Provolone 200g,2.8,3,8.4
+TX-0076,FV05,Manzana roja x4,1.2,1,1.2
+TX-0077,C010,Toallas de cocina x2,2.0,2,4.0
+TX-0077,C017,Lavavajillas 1L,2.5,2,5.0
+TX-0077,S003,Papas Pringles 124g,2.5,3,7.5
+TX-0077,L013,Huevos x12,2.5,2,5.0
+TX-0078,G017,Preservativos x3,2.0,1,2.0
+TX-0078,B017,Gatorade naranja 600ml,1.3,3,3.9
+TX-0078,C003,Jabon en barra 150g,0.8,1,0.8
+TX-0078,P003,Pan de molde de ajo,2.0,1,2.0
+TX-0079,CM09,Nuggets de pollo 300g,3.0,1,3.0
+TX-0079,FV15,Brocoli 500g,0.8,1,0.8
+TX-0079,C013,Detergente polvo 1kg,2.8,1,2.8
+TX-0080,C003,Jabon en barra 150g,0.8,1,0.8
+TX-0080,G013,Alcohol 70% 250ml,1.5,3,4.5
+TX-0080,FV09,Uva roja 500g,2.0,1,2.0
+TX-0080,B001,Agua mineral 500ml,0.5,3,1.5
+TX-0081,A028,Pimienta negra 30g,0.8,3,2.4
+TX-0081,L019,Provolone 200g,2.8,1,2.8
+TX-0081,G006,Cepillo dental medio,1.2,2,2.4
+TX-0081,B006,Sprite 600ml,1.2,1,1.2
+TX-0081,CM08,Carne molida de res 500g,3.5,3,10.5
+TX-0082,CM06,Pernil ahumado 200g,2.8,2,5.6
+TX-0082,S005,Cheetos 80g,1.0,3,3.0
+TX-0082,L018,Leche evaporada 400ml,1.8,1,1.8
+TX-0082,C022,Guantes latex S,1.2,3,3.6
+TX-0083,G021,Toallas humedas x20,1.8,3,5.4
+TX-0083,A017,Pasta coditos 500g,0.85,2,1.7
+TX-0084,FV07,Banano x6,0.6,3,1.8
+TX-0084,A016,Pasta espagueti 500g,0.85,2,1.7
+TX-0084,FV10,Limon x6,0.5,2,1.0
+TX-0084,L012,Huevos x6,1.3,1,1.3
+TX-0085,S015,Barra de cereal 35g,0.6,3,1.8
+TX-0085,G023,Peinilla,0.8,1,0.8
+TX-0086,A002,Arroz 2kg,1.75,2,3.5
+TX-0086,A013,Maiz en lata 400g,1.2,1,1.2
+TX-0086,S012,Galletas de coco 100g,0.9,1,0.9
+TX-0086,L013,Huevos x12,2.5,1,2.5
+TX-0087,FV13,Frutilla 250g,1.2,2,2.4
+TX-0087,G012,Curitas x20,1.2,3,3.6
+TX-0087,S016,Chocolatin 40g,0.7,1,0.7
+TX-0088,S010,Galletas Maria 200g,1.2,3,3.6
+TX-0088,A030,Avena en hojuelas 500g,1.2,2,2.4
+TX-0088,S025,Granola 200g,1.8,2,3.6
+TX-0088,C004,Shampoo 400ml,3.5,2,7.0
+TX-0088,S001,Papas Lays 90g,1.1,3,3.3
+TX-0089,G011,Algodon 100g,1.0,1,1.0
+TX-0089,CM05,Salami 150g,2.2,2,4.4
+TX-0090,S018,Snickers 45g,1.3,1,1.3
+TX-0091,FV12,Maracuya 500g,1.0,2,2.0
+TX-0091,L013,Huevos x12,2.5,2,5.0
+TX-0092,G003,Pasta dental 100ml,1.5,2,3.0
+TX-0092,G015,Protector solar FPS50,4.5,3,13.5
+TX-0092,A022,Mostaza 200g,0.9,1,0.9
+TX-0092,P007,Bagel x4,2.2,3,6.6
+TX-0093,A024,Vinagre 500ml,0.8,3,2.4
+TX-0093,A029,Harina de trigo 1kg,0.9,3,2.7
+TX-0093,S017,Kit Kat 42g,1.2,2,2.4
+TX-0093,A027,Ajo en polvo 50g,0.7,3,2.1
+TX-0094,A034,Mermelada fresa 300g,1.8,1,1.8
+TX-0095,A008,Azucar morena 1kg,0.9,2,1.8
+TX-0096,A020,Mayonesa 200g,1.0,1,1.0
+TX-0096,C014,Detergente liquido 500ml,2.0,3,6.0
+TX-0096,CM04,Chorizo 250g,2.5,3,7.5
+TX-0096,B001,Agua mineral 500ml,0.5,1,0.5
+TX-0096,B029,Limonada 500ml,0.9,1,0.9
+TX-0097,CM07,Pollo molido 500g,2.5,1,2.5
+TX-0098,CM03,Jamon de pierna 200g,2.0,2,4.0
+TX-0098,B002,Agua con gas 500ml,0.65,2,1.3
+TX-0098,S018,Snickers 45g,1.3,2,2.6
+TX-0098,A029,Harina de trigo 1kg,0.9,2,1.8
+TX-0098,L013,Huevos x12,2.5,2,5.0
+TX-0099,C024,Bolsas de basura x10,1.5,1,1.5
+TX-0099,B011,Jugo Natura mango 1L,1.5,2,3.0
+TX-0100,P011,Muffin de chocolate,0.8,2,1.6
+TX-0100,G018,Toallas higienicas x8,2.5,3,7.5
+TX-0100,P003,Pan de molde de ajo,2.0,2,4.0
+TX-0100,G016,Crema humectante 200ml,3.0,1,3.0
+TX-0101,B028,Te en sobre x20,1.8,3,5.4
+TX-0101,B008,Pepsi 600ml,1.15,2,2.3
+TX-0101,A019,Salsa de tomate 500g,1.3,3,3.9
+TX-0102,P012,Muffin de vainilla,0.8,2,1.6
+TX-0102,G023,Peinilla,0.8,2,1.6
+TX-0102,L015,Crema de leche 250ml,1.2,1,1.2
+TX-0102,P007,Bagel x4,2.2,3,6.6
+TX-0102,CM01,Salchicha 250g,1.8,1,1.8
+TX-0103,B019,Powerade uva 600ml,1.25,1,1.25
+TX-0103,B021,Te helado durazno 500ml,1.0,2,2.0
+TX-0103,G025,Maquinilla depiladora,1.5,2,3.0
+TX-0103,S022,Caramelos surtidos 100g,0.75,2,1.5
+TX-0104,C019,Desinfectante piso 1L,2.0,3,6.0
+TX-0104,A012,Sardinas en lata 125g,1.1,1,1.1
+TX-0104,S013,Mani con chocolate 50g,0.8,2,1.6
+TX-0105,S014,Mani salado 100g,0.7,3,2.1
+TX-0105,FV07,Banano x6,0.6,3,1.8
+TX-0106,A031,Lentejas 500g,1.1,1,1.1
+TX-0106,S008,Canguil dulce 50g,0.5,2,1.0
+TX-0106,B016,Energizante Volt 250ml,1.5,3,4.5
+TX-0107,L009,Queso parmesano rallado 80g,2.0,2,4.0
+TX-0108,B001,Agua mineral 500ml,0.5,3,1.5
+TX-0108,G014,Agua oxigenada 250ml,0.9,3,2.7
+TX-0109,CM09,Nuggets de pollo 300g,3.0,2,6.0
+TX-0109,L005,Yogur griego 150g,1.2,2,2.4
+TX-0109,S025,Granola 200g,1.8,2,3.6
+TX-0109,A020,Mayonesa 200g,1.0,1,1.0
+TX-0109,C006,Acondicionador 400ml,3.5,2,7.0
+TX-0110,A030,Avena en hojuelas 500g,1.2,1,1.2
+TX-0110,FV14,Aguacate x2,1.5,3,4.5
+TX-0110,S023,Paleta de chocolate,0.5,3,1.5
+TX-0111,B004,Coca-Cola 600ml,1.25,1,1.25
+TX-0111,B019,Powerade uva 600ml,1.25,1,1.25
+TX-0111,B023,Leche semidescremada 1L,1.05,1,1.05
+TX-0111,S014,Mani salado 100g,0.7,1,0.7
+TX-0112,CM10,Jamon serrano 100g,3.5,2,7.0
+TX-0112,A006,Aceite de girasol 1L,2.0,2,4.0
+TX-0112,S015,Barra de cereal 35g,0.6,3,1.8
+TX-0113,P008,Tortillas de harina x8,1.5,3,4.5
+TX-0113,B020,Te helado limon 500ml,1.0,2,2.0
+TX-0113,A001,Arroz 1kg,0.9,3,2.7
+TX-0113,S015,Barra de cereal 35g,0.6,2,1.2
+TX-0114,C007,Papel higienico x4,1.8,3,5.4
+TX-0115,C017,Lavavajillas 1L,2.5,1,2.5
+TX-0115,A017,Pasta coditos 500g,0.85,1,0.85
+TX-0115,CM01,Salchicha 250g,1.8,1,1.8
+TX-0116,S022,Caramelos surtidos 100g,0.75,1,0.75
+TX-0116,S004,Doritos nachos 90g,1.2,3,3.6
+TX-0117,L007,Queso mozzarella 200g,2.2,1,2.2
+TX-0118,A027,Ajo en polvo 50g,0.7,2,1.4
+TX-0118,G009,Afeitadora x2,2.5,3,7.5
+TX-0118,L015,Crema de leche 250ml,1.2,2,2.4
+TX-0118,CM01,Salchicha 250g,1.8,1,1.8
+TX-0118,C023,Guantes latex M,1.2,3,3.6
+TX-0119,CM03,Jamon de pierna 200g,2.0,1,2.0
+TX-0119,L008,Queso cheddar 150g,2.5,1,2.5
+TX-0119,C007,Papel higienico x4,1.8,1,1.8
+TX-0119,G006,Cepillo dental medio,1.2,3,3.6
+TX-0120,C010,Toallas de cocina x2,2.0,2,4.0
+TX-0120,C025,Repelente mosquitos 100ml,2.5,3,7.5
+TX-0121,G004,Pasta dental blanqueadora,1.8,3,5.4
+TX-0121,B014,Energizante Monster 473ml,2.5,1,2.5
+TX-0121,B019,Powerade uva 600ml,1.25,3,3.75
+TX-0122,P015,Wafer de vainilla 150g,1.1,2,2.2
+TX-0122,C021,Esponjas x3,1.0,2,2.0
+TX-0122,A029,Harina de trigo 1kg,0.9,3,2.7
+TX-0122,S014,Mani salado 100g,0.7,1,0.7
+TX-0123,G002,Desodorante spray 150ml,3.0,3,9.0
+TX-0123,B027,Cafe instantaneo 100g,2.2,1,2.2
+TX-0123,FV13,Frutilla 250g,1.2,2,2.4
+TX-0123,A034,Mermelada fresa 300g,1.8,2,3.6
+TX-0123,FV04,Pimiento verde 500g,0.6,3,1.8
+TX-0124,CM03,Jamon de pierna 200g,2.0,2,4.0
+TX-0124,B008,Pepsi 600ml,1.15,2,2.3
+TX-0124,C009,Papel higienico x24,9.0,1,9.0
+TX-0125,G010,Crema de afeitar 100ml,1.8,2,3.6
+TX-0125,C013,Detergente polvo 1kg,2.8,3,8.4
+TX-0126,S017,Kit Kat 42g,1.2,1,1.2
+TX-0126,C013,Detergente polvo 1kg,2.8,3,8.4
+TX-0126,A006,Aceite de girasol 1L,2.0,1,2.0
+TX-0126,S020,Gomas de fresa 100g,0.8,2,1.6
+TX-0126,S010,Galletas Maria 200g,1.2,1,1.2
+TX-0127,C009,Papel higienico x24,9.0,1,9.0
+TX-0127,FV15,Brocoli 500g,0.8,2,1.6
+TX-0127,A035,Mermelada mora 300g,1.8,3,5.4
+TX-0127,B001,Agua mineral 500ml,0.5,3,1.5
+TX-0127,G007,Enjuague bucal 250ml,2.5,3,7.5
+TX-0128,G015,Protector solar FPS50,4.5,1,4.5
+TX-0129,L004,Yogur durazno 200g,0.8,2,1.6
+TX-0129,C020,Limpiador multiusos 500ml,1.8,1,1.8
+TX-0130,FV10,Limon x6,0.5,1,0.5
+TX-0130,B015,Energizante Red Bull 250ml,2.8,3,8.4
+TX-0130,S016,Chocolatin 40g,0.7,1,0.7
+TX-0131,S008,Canguil dulce 50g,0.5,1,0.5
+TX-0131,S024,Semillas girasol 80g,0.65,1,0.65
+TX-0131,C021,Esponjas x3,1.0,1,1.0
+TX-0131,A020,Mayonesa 200g,1.0,2,2.0
+TX-0131,P002,Pan de molde blanco,1.5,2,3.0
+TX-0132,L009,Queso parmesano rallado 80g,2.0,1,2.0
+TX-0132,C007,Papel higienico x4,1.8,3,5.4
+TX-0132,L020,Ricotta 250g,2.2,3,6.6
+TX-0132,A032,Arvejas 500g,1.0,2,2.0
+TX-0133,A025,Comino molido 50g,0.6,3,1.8
+TX-0133,S005,Cheetos 80g,1.0,1,1.0
+TX-0134,P015,Wafer de vainilla 150g,1.1,1,1.1
+TX-0134,B020,Te helado limon 500ml,1.0,1,1.0
+TX-0134,G009,Afeitadora x2,2.5,2,5.0
+TX-0134,C007,Papel higienico x4,1.8,3,5.4
+TX-0135,B015,Energizante Red Bull 250ml,2.8,3,8.4
+TX-0135,G023,Peinilla,0.8,3,2.4
+TX-0135,L001,Yogur natural 200g,0.75,2,1.5
+TX-0135,B024,Leche deslactosada 1L,1.2,2,2.4
+TX-0135,A024,Vinagre 500ml,0.8,1,0.8
+TX-0136,S014,Mani salado 100g,0.7,2,1.4
+TX-0136,S006,Chifles 80g,0.75,2,1.5
+TX-0136,G017,Preservativos x3,2.0,3,6.0
+TX-0136,L003,Yogur mora 200g,0.8,3,2.4
+TX-0137,G013,Alcohol 70% 250ml,1.5,2,3.0
+TX-0137,A033,Miel de abeja 350g,3.5,3,10.5
+TX-0137,B009,Big Cola 1.5L,1.0,2,2.0
+TX-0137,CM04,Chorizo 250g,2.5,3,7.5
+TX-0137,S021,Chicle Trident x12,0.6,1,0.6
+TX-0138,S002,Papas Ruffles 90g,1.1,2,2.2
+TX-0138,L009,Queso parmesano rallado 80g,2.0,2,4.0
+TX-0138,A031,Lentejas 500g,1.1,2,2.2
+TX-0139,B019,Powerade uva 600ml,1.25,3,3.75
+TX-0140,C004,Shampoo 400ml,3.5,1,3.5
+TX-0140,L020,Ricotta 250g,2.2,3,6.6
+TX-0140,A029,Harina de trigo 1kg,0.9,1,0.9
+TX-0141,P010,Donuts x4,2.0,2,4.0
+TX-0141,B010,Jugo Natura naranja 1L,1.5,3,4.5
+TX-0141,S020,Gomas de fresa 100g,0.8,2,1.6
+TX-0141,G022,Gel antibacterial 60ml,1.2,3,3.6
+TX-0142,B023,Leche semidescremada 1L,1.05,1,1.05
+TX-0142,C003,Jabon en barra 150g,0.8,3,2.4
+TX-0142,C011,Servilletas x100,1.2,2,2.4
+TX-0142,S010,Galletas Maria 200g,1.2,2,2.4
+TX-0142,L001,Yogur natural 200g,0.75,1,0.75
+TX-0143,S008,Canguil dulce 50g,0.5,2,1.0
+TX-0143,B015,Energizante Red Bull 250ml,2.8,1,2.8
+TX-0143,CM03,Jamon de pierna 200g,2.0,1,2.0
+TX-0143,C011,Servilletas x100,1.2,2,2.4
+TX-0143,S010,Galletas Maria 200g,1.2,3,3.6
+TX-0144,A031,Lentejas 500g,1.1,2,2.2
+TX-0144,S021,Chicle Trident x12,0.6,3,1.8
+TX-0144,A008,Azucar morena 1kg,0.9,2,1.8
+TX-0145,G023,Peinilla,0.8,2,1.6
+TX-0146,FV02,Cebolla 1kg,0.6,1,0.6
+TX-0147,FV10,Limon x6,0.5,3,1.5
+TX-0147,A006,Aceite de girasol 1L,2.0,1,2.0
+TX-0147,L004,Yogur durazno 200g,0.8,2,1.6
+TX-0147,CM07,Pollo molido 500g,2.5,3,7.5
+TX-0148,B010,Jugo Natura naranja 1L,1.5,3,4.5
+TX-0149,S008,Canguil dulce 50g,0.5,1,0.5
+TX-0149,FV11,Mandarina x6,0.9,3,2.7
+TX-0149,B020,Te helado limon 500ml,1.0,1,1.0
+TX-0150,B028,Te en sobre x20,1.8,1,1.8
+TX-0150,P003,Pan de molde de ajo,2.0,1,2.0
+TX-0150,C005,Shampoo anticaspa 400ml,3.8,3,11.4
+TX-0150,B026,Cocoa en polvo 400g,2.5,1,2.5
+TX-0150,A029,Harina de trigo 1kg,0.9,2,1.8
+TX-0151,S025,Granola 200g,1.8,3,5.4
+TX-0152,C025,Repelente mosquitos 100ml,2.5,1,2.5
+TX-0152,L014,Huevos x30,6.0,3,18.0
+TX-0152,CM08,Carne molida de res 500g,3.5,1,3.5
+TX-0152,A035,Mermelada mora 300g,1.8,1,1.8
+TX-0152,G012,Curitas x20,1.2,3,3.6
+TX-0153,L001,Yogur natural 200g,0.75,3,2.25
+TX-0153,G001,Desodorante roll-on 50ml,2.8,2,5.6
+TX-0153,G014,Agua oxigenada 250ml,0.9,1,0.9
+TX-0153,CM01,Salchicha 250g,1.8,1,1.8
+TX-0153,A009,Panela 1kg,0.7,2,1.4
+TX-0154,B001,Agua mineral 500ml,0.5,3,1.5
+TX-0155,P003,Pan de molde de ajo,2.0,1,2.0
+TX-0155,FV11,Mandarina x6,0.9,3,2.7
+TX-0155,B024,Leche deslactosada 1L,1.2,1,1.2
+TX-0156,S020,Gomas de fresa 100g,0.8,1,0.8
+TX-0156,S017,Kit Kat 42g,1.2,1,1.2
+TX-0156,L004,Yogur durazno 200g,0.8,1,0.8
+TX-0156,FV08,Pera x4,1.3,3,3.9
+TX-0156,A021,Mayonesa 400g,1.8,1,1.8
+TX-0157,FV07,Banano x6,0.6,3,1.8
+TX-0157,A005,Aceite de oliva 500ml,5.5,1,5.5
+TX-0157,S020,Gomas de fresa 100g,0.8,2,1.6
+TX-0158,P012,Muffin de vainilla,0.8,1,0.8
+TX-0159,G020,Pañal bebe talla M x10,5.0,2,10.0
+TX-0160,P015,Wafer de vainilla 150g,1.1,3,3.3
+TX-0160,A024,Vinagre 500ml,0.8,2,1.6
+TX-0161,A027,Ajo en polvo 50g,0.7,2,1.4
+TX-0161,CM08,Carne molida de res 500g,3.5,3,10.5
+TX-0161,L012,Huevos x6,1.3,3,3.9
+TX-0161,P015,Wafer de vainilla 150g,1.1,3,3.3
+TX-0162,L001,Yogur natural 200g,0.75,3,2.25
+TX-0162,C024,Bolsas de basura x10,1.5,2,3.0
+TX-0162,FV12,Maracuya 500g,1.0,3,3.0
+TX-0163,S022,Caramelos surtidos 100g,0.75,2,1.5
+TX-0163,L012,Huevos x6,1.3,1,1.3
+TX-0163,S015,Barra de cereal 35g,0.6,2,1.2
+TX-0164,S002,Papas Ruffles 90g,1.1,1,1.1
+TX-0164,A013,Maiz en lata 400g,1.2,2,2.4
+TX-0164,S016,Chocolatin 40g,0.7,3,2.1
+TX-0164,A011,Atun en lata 180g,1.4,2,2.8
+TX-0165,FV01,Papas 1kg,0.8,1,0.8
+TX-0165,G006,Cepillo dental medio,1.2,2,2.4
+TX-0165,L001,Yogur natural 200g,0.75,2,1.5
+TX-0165,B009,Big Cola 1.5L,1.0,3,3.0
+TX-0165,B028,Te en sobre x20,1.8,1,1.8
+TX-0166,C024,Bolsas de basura x10,1.5,1,1.5
+TX-0166,A011,Atun en lata 180g,1.4,1,1.4
+TX-0166,S001,Papas Lays 90g,1.1,2,2.2
+TX-0167,S008,Canguil dulce 50g,0.5,3,1.5
+TX-0168,S018,Snickers 45g,1.3,1,1.3
+TX-0168,CM05,Salami 150g,2.2,2,4.4
+TX-0168,CM06,Pernil ahumado 200g,2.8,2,5.6
+TX-0169,A014,Frijoles en lata 400g,1.1,2,2.2
+TX-0169,G011,Algodon 100g,1.0,2,2.0
+TX-0169,S019,M&Ms 45g,1.5,2,3.0
+TX-0170,P011,Muffin de chocolate,0.8,3,2.4
+TX-0171,S018,Snickers 45g,1.3,2,2.6
+TX-0171,A021,Mayonesa 400g,1.8,2,3.6
+TX-0172,A026,Oregano 20g,0.5,2,1.0
+TX-0172,G007,Enjuague bucal 250ml,2.5,1,2.5
+TX-0172,CM05,Salami 150g,2.2,3,6.6
+TX-0173,C002,Jabon de bano x3,1.5,1,1.5
+TX-0173,P001,Pan de molde integral,1.8,2,3.6
+TX-0174,B001,Agua mineral 500ml,0.5,1,0.5
+TX-0175,P009,Bizcocho 200g,1.8,3,5.4
+TX-0175,G019,Tampones x8,2.8,1,2.8
+TX-0175,A009,Panela 1kg,0.7,2,1.4
+TX-0175,S002,Papas Ruffles 90g,1.1,1,1.1
+TX-0175,C013,Detergente polvo 1kg,2.8,2,5.6
+TX-0176,L012,Huevos x6,1.3,1,1.3
+TX-0177,B017,Gatorade naranja 600ml,1.3,3,3.9
+TX-0177,P008,Tortillas de harina x8,1.5,2,3.0
+TX-0177,L001,Yogur natural 200g,0.75,3,2.25
+TX-0177,FV03,Tomate riñon 1kg,0.7,3,2.1
+TX-0177,L003,Yogur mora 200g,0.8,3,2.4
+TX-0178,B016,Energizante Volt 250ml,1.5,2,3.0
+TX-0179,A025,Comino molido 50g,0.6,2,1.2
+TX-0180,B014,Energizante Monster 473ml,2.5,2,5.0
+TX-0181,A011,Atun en lata 180g,1.4,2,2.8
+TX-0181,S019,M&Ms 45g,1.5,1,1.5
+TX-0181,CM02,Mortadela 200g,1.5,1,1.5
+TX-0181,P015,Wafer de vainilla 150g,1.1,2,2.2
+TX-0182,G006,Cepillo dental medio,1.2,3,3.6
+TX-0183,G002,Desodorante spray 150ml,3.0,2,6.0
+TX-0183,B003,Agua mineral 1.5L,0.9,2,1.8
+TX-0183,B011,Jugo Natura mango 1L,1.5,1,1.5
+TX-0183,S010,Galletas Maria 200g,1.2,2,2.4
+TX-0183,A006,Aceite de girasol 1L,2.0,1,2.0
+TX-0184,S022,Caramelos surtidos 100g,0.75,1,0.75
+TX-0184,G025,Maquinilla depiladora,1.5,2,3.0
+TX-0184,C016,Lavavajillas 500ml,1.5,2,3.0
+TX-0185,P003,Pan de molde de ajo,2.0,2,4.0
+TX-0185,FV06,Naranja x6,1.0,3,3.0
+TX-0185,P009,Bizcocho 200g,1.8,3,5.4
+TX-0185,B007,Fanta naranja 600ml,1.2,1,1.2
+TX-0186,P001,Pan de molde integral,1.8,3,5.4
+TX-0186,A022,Mostaza 200g,0.9,2,1.8
+TX-0187,B002,Agua con gas 500ml,0.65,3,1.95
+TX-0187,B028,Te en sobre x20,1.8,3,5.4
+TX-0187,L020,Ricotta 250g,2.2,1,2.2
+TX-0187,L004,Yogur durazno 200g,0.8,3,2.4
+TX-0188,B005,Coca-Cola 1.5L,1.8,1,1.8
+TX-0188,C005,Shampoo anticaspa 400ml,3.8,3,11.4
+TX-0188,C010,Toallas de cocina x2,2.0,1,2.0
+TX-0188,P004,Tostadas x20,1.3,1,1.3
+TX-0189,CM07,Pollo molido 500g,2.5,2,5.0
+TX-0189,FV12,Maracuya 500g,1.0,2,2.0
+TX-0189,S023,Paleta de chocolate,0.5,1,0.5
+TX-0190,A020,Mayonesa 200g,1.0,3,3.0
+TX-0190,B025,Leche de chocolate 1L,1.3,1,1.3
+TX-0191,A017,Pasta coditos 500g,0.85,1,0.85
+TX-0191,L006,Queso fresco 250g,1.8,3,5.4
+TX-0191,FV02,Cebolla 1kg,0.6,2,1.2
+TX-0191,S009,Galletas Oreo 120g,1.5,2,3.0
+TX-0191,S005,Cheetos 80g,1.0,3,3.0
+TX-0192,G015,Protector solar FPS50,4.5,3,13.5
+TX-0192,CM06,Pernil ahumado 200g,2.8,3,8.4
+TX-0192,B006,Sprite 600ml,1.2,1,1.2
+TX-0193,C011,Servilletas x100,1.2,1,1.2
+TX-0193,A029,Harina de trigo 1kg,0.9,1,0.9
+TX-0194,C020,Limpiador multiusos 500ml,1.8,2,3.6
+TX-0194,A006,Aceite de girasol 1L,2.0,2,4.0
+TX-0195,A025,Comino molido 50g,0.6,3,1.8
+TX-0195,P013,Pan de yuca 6 unid,1.5,2,3.0
+TX-0195,L005,Yogur griego 150g,1.2,1,1.2
+TX-0195,FV12,Maracuya 500g,1.0,2,2.0
+TX-0196,S004,Doritos nachos 90g,1.2,1,1.2
+TX-0197,G007,Enjuague bucal 250ml,2.5,2,5.0
+TX-0197,CM05,Salami 150g,2.2,1,2.2
+TX-0197,G015,Protector solar FPS50,4.5,2,9.0
+TX-0198,L014,Huevos x30,6.0,2,12.0
+TX-0199,C022,Guantes latex S,1.2,3,3.6
+TX-0199,S019,M&Ms 45g,1.5,3,4.5
+TX-0199,P003,Pan de molde de ajo,2.0,3,6.0
+TX-0199,FV04,Pimiento verde 500g,0.6,2,1.2
+TX-0200,A025,Comino molido 50g,0.6,3,1.8
+TX-0200,FV12,Maracuya 500g,1.0,2,2.0
+TX-0200,C023,Guantes latex M,1.2,1,1.2
+TX-0200,G001,Desodorante roll-on 50ml,2.8,3,8.4
+TX-0201,CM05,Salami 150g,2.2,2,4.4
+TX-0202,P005,Pan pita x6,1.8,3,5.4
+TX-0202,A006,Aceite de girasol 1L,2.0,2,4.0
+TX-0203,P006,Croissant x4,2.0,2,4.0
+TX-0204,S018,Snickers 45g,1.3,1,1.3
+TX-0204,FV10,Limon x6,0.5,3,1.5
+TX-0204,B010,Jugo Natura naranja 1L,1.5,3,4.5
+TX-0204,S009,Galletas Oreo 120g,1.5,3,4.5
+TX-0205,A001,Arroz 1kg,0.9,2,1.8
+TX-0206,L012,Huevos x6,1.3,3,3.9
+TX-0206,A027,Ajo en polvo 50g,0.7,2,1.4
+TX-0206,S001,Papas Lays 90g,1.1,1,1.1
+TX-0206,A025,Comino molido 50g,0.6,2,1.2
+TX-0206,C024,Bolsas de basura x10,1.5,3,4.5
+TX-0207,C001,Jabon de manos 250ml,1.2,1,1.2
+TX-0207,S012,Galletas de coco 100g,0.9,1,0.9
+TX-0207,B029,Limonada 500ml,0.9,2,1.8
+TX-0208,B024,Leche deslactosada 1L,1.2,1,1.2
+TX-0208,B014,Energizante Monster 473ml,2.5,3,7.5
+TX-0208,B025,Leche de chocolate 1L,1.3,1,1.3
+TX-0208,P006,Croissant x4,2.0,2,4.0
+TX-0208,C018,Cloro 1L,1.2,3,3.6
+TX-0209,S020,Gomas de fresa 100g,0.8,3,2.4
+TX-0210,G022,Gel antibacterial 60ml,1.2,1,1.2
+TX-0211,B007,Fanta naranja 600ml,1.2,1,1.2
+TX-0211,A033,Miel de abeja 350g,3.5,1,3.5
+TX-0211,B022,Leche entera 1L,0.95,2,1.9
+TX-0211,P002,Pan de molde blanco,1.5,1,1.5
+TX-0212,S010,Galletas Maria 200g,1.2,1,1.2
+TX-0212,C015,Suavizante ropa 500ml,2.0,2,4.0
+TX-0213,G009,Afeitadora x2,2.5,1,2.5
+TX-0213,A031,Lentejas 500g,1.1,3,3.3
+TX-0213,C005,Shampoo anticaspa 400ml,3.8,3,11.4
+TX-0213,G020,Pañal bebe talla M x10,5.0,1,5.0
+TX-0214,P014,Churros empacados 100g,1.2,2,2.4
+TX-0214,A017,Pasta coditos 500g,0.85,3,2.55
+TX-0215,P011,Muffin de chocolate,0.8,1,0.8
+TX-0216,G018,Toallas higienicas x8,2.5,3,7.5
+TX-0216,C024,Bolsas de basura x10,1.5,1,1.5
+TX-0216,G003,Pasta dental 100ml,1.5,1,1.5
+TX-0217,L006,Queso fresco 250g,1.8,3,5.4
+TX-0217,C019,Desinfectante piso 1L,2.0,3,6.0
+TX-0217,G017,Preservativos x3,2.0,1,2.0
+TX-0218,C005,Shampoo anticaspa 400ml,3.8,2,7.6
+TX-0218,P011,Muffin de chocolate,0.8,2,1.6
+TX-0218,L019,Provolone 200g,2.8,2,5.6
+TX-0219,S025,Granola 200g,1.8,2,3.6
+TX-0219,L003,Yogur mora 200g,0.8,1,0.8
+TX-0219,L010,Mantequilla 100g,1.5,2,3.0
+TX-0219,G007,Enjuague bucal 250ml,2.5,2,5.0
+TX-0219,FV15,Brocoli 500g,0.8,2,1.6
+TX-0220,C017,Lavavajillas 1L,2.5,3,7.5
+TX-0220,L005,Yogur griego 150g,1.2,2,2.4
+TX-0220,G025,Maquinilla depiladora,1.5,2,3.0
+TX-0220,A035,Mermelada mora 300g,1.8,2,3.6
+TX-0221,C013,Detergente polvo 1kg,2.8,3,8.4
+TX-0221,A008,Azucar morena 1kg,0.9,2,1.8
+TX-0222,C018,Cloro 1L,1.2,2,2.4
+TX-0222,A024,Vinagre 500ml,0.8,1,0.8
+TX-0223,FV07,Banano x6,0.6,2,1.2
+TX-0223,A023,Salsa de soya 150ml,1.2,1,1.2
+TX-0223,C010,Toallas de cocina x2,2.0,3,6.0
+TX-0223,C022,Guantes latex S,1.2,1,1.2
+TX-0223,G011,Algodon 100g,1.0,2,2.0
+TX-0224,P015,Wafer de vainilla 150g,1.1,3,3.3
+TX-0224,L006,Queso fresco 250g,1.8,1,1.8
+TX-0224,B006,Sprite 600ml,1.2,3,3.6
+TX-0225,A024,Vinagre 500ml,0.8,1,0.8
+TX-0225,C022,Guantes latex S,1.2,3,3.6
+TX-0225,C009,Papel higienico x24,9.0,1,9.0
+TX-0226,L019,Provolone 200g,2.8,2,5.6
+TX-0226,S005,Cheetos 80g,1.0,2,2.0
+TX-0226,B001,Agua mineral 500ml,0.5,1,0.5
+TX-0227,C010,Toallas de cocina x2,2.0,3,6.0
+TX-0227,C002,Jabon de bano x3,1.5,2,3.0
+TX-0228,B030,Jugo de guayaba 500ml,1.1,2,2.2
+TX-0228,A009,Panela 1kg,0.7,1,0.7
+TX-0229,C009,Papel higienico x24,9.0,2,18.0
+TX-0229,CM06,Pernil ahumado 200g,2.8,3,8.4
+TX-0229,L013,Huevos x12,2.5,3,7.5
+TX-0229,C010,Toallas de cocina x2,2.0,3,6.0
+TX-0230,S008,Canguil dulce 50g,0.5,2,1.0
+TX-0231,L005,Yogur griego 150g,1.2,3,3.6
+TX-0231,A001,Arroz 1kg,0.9,3,2.7
+TX-0231,P002,Pan de molde blanco,1.5,1,1.5
+TX-0231,A032,Arvejas 500g,1.0,2,2.0
+TX-0231,G018,Toallas higienicas x8,2.5,1,2.5
+TX-0232,L009,Queso parmesano rallado 80g,2.0,1,2.0
+TX-0232,B029,Limonada 500ml,0.9,3,2.7
+TX-0232,A013,Maiz en lata 400g,1.2,3,3.6
+TX-0233,A015,Tomate en lata 400g,1.0,3,3.0
+TX-0233,FV02,Cebolla 1kg,0.6,1,0.6
+TX-0233,C015,Suavizante ropa 500ml,2.0,3,6.0
+TX-0233,L012,Huevos x6,1.3,1,1.3
+TX-0234,G003,Pasta dental 100ml,1.5,2,3.0
+TX-0234,S025,Granola 200g,1.8,3,5.4
+TX-0234,S003,Papas Pringles 124g,2.5,3,7.5
+TX-0234,L013,Huevos x12,2.5,2,5.0
+TX-0234,G013,Alcohol 70% 250ml,1.5,1,1.5
+TX-0235,G018,Toallas higienicas x8,2.5,2,5.0
+TX-0235,S009,Galletas Oreo 120g,1.5,3,4.5
+TX-0235,C022,Guantes latex S,1.2,2,2.4
+TX-0235,S016,Chocolatin 40g,0.7,1,0.7
+TX-0236,L006,Queso fresco 250g,1.8,2,3.6
+TX-0236,C001,Jabon de manos 250ml,1.2,3,3.6
+TX-0237,B012,Jugo Del Valle 500ml,1.1,3,3.3
+TX-0237,C002,Jabon de bano x3,1.5,1,1.5
+TX-0237,FV03,Tomate riñon 1kg,0.7,3,2.1
+TX-0237,S021,Chicle Trident x12,0.6,1,0.6
+TX-0238,A016,Pasta espagueti 500g,0.85,2,1.7
+TX-0238,G006,Cepillo dental medio,1.2,3,3.6
+TX-0239,G008,Hilo dental 50m,1.0,2,2.0
+TX-0239,C014,Detergente liquido 500ml,2.0,2,4.0
+TX-0239,L017,Leche condensada 397g,2.0,2,4.0
+TX-0239,L015,Crema de leche 250ml,1.2,3,3.6
+TX-0239,A035,Mermelada mora 300g,1.8,2,3.6
+TX-0240,B014,Energizante Monster 473ml,2.5,3,7.5
+TX-0241,G011,Algodon 100g,1.0,1,1.0
+TX-0241,C024,Bolsas de basura x10,1.5,1,1.5
+TX-0241,C015,Suavizante ropa 500ml,2.0,3,6.0
+TX-0241,G004,Pasta dental blanqueadora,1.8,1,1.8
+TX-0242,C012,Detergente polvo 500g,1.6,2,3.2
+TX-0242,B025,Leche de chocolate 1L,1.3,2,2.6
+TX-0242,C020,Limpiador multiusos 500ml,1.8,2,3.6
+TX-0242,C022,Guantes latex S,1.2,2,2.4
+TX-0243,A004,Aceite vegetal 1L,2.2,1,2.2
+TX-0244,L019,Provolone 200g,2.8,1,2.8
+TX-0244,A002,Arroz 2kg,1.75,2,3.5
+TX-0244,C011,Servilletas x100,1.2,3,3.6
+TX-0244,G021,Toallas humedas x20,1.8,1,1.8
+TX-0244,G005,Cepillo dental suave,1.2,2,2.4
+TX-0245,CM03,Jamon de pierna 200g,2.0,2,4.0
+TX-0245,B006,Sprite 600ml,1.2,1,1.2
+TX-0246,G021,Toallas humedas x20,1.8,1,1.8
+TX-0247,G005,Cepillo dental suave,1.2,1,1.2
+TX-0247,A002,Arroz 2kg,1.75,1,1.75
+TX-0247,S019,M&Ms 45g,1.5,3,4.5
+TX-0247,A001,Arroz 1kg,0.9,2,1.8
+TX-0248,A021,Mayonesa 400g,1.8,3,5.4
+TX-0248,S012,Galletas de coco 100g,0.9,3,2.7
+TX-0249,FV12,Maracuya 500g,1.0,3,3.0
+TX-0250,P011,Muffin de chocolate,0.8,2,1.6
+TX-0251,L016,Natilla 500ml,1.5,1,1.5
+TX-0251,B024,Leche deslactosada 1L,1.2,1,1.2
+TX-0251,A022,Mostaza 200g,0.9,1,0.9
+TX-0251,S014,Mani salado 100g,0.7,3,2.1
+TX-0252,B017,Gatorade naranja 600ml,1.3,2,2.6
+TX-0253,S015,Barra de cereal 35g,0.6,1,0.6
+TX-0253,L012,Huevos x6,1.3,1,1.3
+TX-0253,L005,Yogur griego 150g,1.2,2,2.4
+TX-0253,B006,Sprite 600ml,1.2,3,3.6
+TX-0254,L006,Queso fresco 250g,1.8,3,5.4
+TX-0254,P006,Croissant x4,2.0,2,4.0
+TX-0254,G022,Gel antibacterial 60ml,1.2,1,1.2
+TX-0254,S022,Caramelos surtidos 100g,0.75,1,0.75
+TX-0255,CM04,Chorizo 250g,2.5,2,5.0
+TX-0256,C010,Toallas de cocina x2,2.0,1,2.0
+TX-0256,A012,Sardinas en lata 125g,1.1,3,3.3
+TX-0256,G007,Enjuague bucal 250ml,2.5,2,5.0
+TX-0257,A029,Harina de trigo 1kg,0.9,3,2.7
+TX-0257,FV03,Tomate riñon 1kg,0.7,3,2.1
+TX-0258,S011,Galletas Ritz 100g,1.3,3,3.9
+TX-0258,L016,Natilla 500ml,1.5,1,1.5
+TX-0258,G021,Toallas humedas x20,1.8,2,3.6
+TX-0258,A026,Oregano 20g,0.5,3,1.5
+TX-0258,CM06,Pernil ahumado 200g,2.8,2,5.6
+TX-0259,CM07,Pollo molido 500g,2.5,2,5.0
+TX-0259,A024,Vinagre 500ml,0.8,1,0.8
+TX-0259,CM08,Carne molida de res 500g,3.5,2,7.0
+TX-0259,C024,Bolsas de basura x10,1.5,1,1.5
+TX-0259,S009,Galletas Oreo 120g,1.5,2,3.0
+TX-0260,L013,Huevos x12,2.5,3,7.5
+TX-0261,A008,Azucar morena 1kg,0.9,2,1.8
+TX-0261,B018,Gatorade limon 600ml,1.3,1,1.3
+TX-0262,A010,Sal 500g,0.35,3,1.05
+TX-0262,A032,Arvejas 500g,1.0,2,2.0
+TX-0262,S025,Granola 200g,1.8,1,1.8
+TX-0262,B011,Jugo Natura mango 1L,1.5,1,1.5
+TX-0263,A022,Mostaza 200g,0.9,3,2.7
+TX-0263,A031,Lentejas 500g,1.1,1,1.1
+TX-0264,G013,Alcohol 70% 250ml,1.5,1,1.5
+TX-0265,B028,Te en sobre x20,1.8,3,5.4
+TX-0265,C005,Shampoo anticaspa 400ml,3.8,1,3.8
+TX-0265,FV08,Pera x4,1.3,3,3.9
+TX-0265,P011,Muffin de chocolate,0.8,2,1.6
+TX-0265,B026,Cocoa en polvo 400g,2.5,2,5.0
+TX-0266,P014,Churros empacados 100g,1.2,3,3.6
+TX-0267,L018,Leche evaporada 400ml,1.8,1,1.8
+TX-0267,B018,Gatorade limon 600ml,1.3,3,3.9
+TX-0267,A013,Maiz en lata 400g,1.2,3,3.6
+TX-0268,A006,Aceite de girasol 1L,2.0,3,6.0
+TX-0268,B017,Gatorade naranja 600ml,1.3,2,2.6
+TX-0268,B011,Jugo Natura mango 1L,1.5,1,1.5
+TX-0268,B008,Pepsi 600ml,1.15,1,1.15
+TX-0268,C014,Detergente liquido 500ml,2.0,3,6.0
+TX-0269,FV12,Maracuya 500g,1.0,2,2.0
+TX-0269,G017,Preservativos x3,2.0,1,2.0
+TX-0269,C003,Jabon en barra 150g,0.8,1,0.8
+TX-0270,P008,Tortillas de harina x8,1.5,2,3.0
+TX-0271,L014,Huevos x30,6.0,2,12.0
+TX-0271,S022,Caramelos surtidos 100g,0.75,1,0.75
+TX-0271,S019,M&Ms 45g,1.5,2,3.0
+TX-0271,L013,Huevos x12,2.5,3,7.5
+TX-0271,C017,Lavavajillas 1L,2.5,1,2.5
+TX-0272,G006,Cepillo dental medio,1.2,1,1.2
+TX-0272,A023,Salsa de soya 150ml,1.2,3,3.6
+TX-0272,A033,Miel de abeja 350g,3.5,2,7.0
+TX-0272,P010,Donuts x4,2.0,1,2.0
+TX-0272,C010,Toallas de cocina x2,2.0,2,4.0
+TX-0273,FV08,Pera x4,1.3,2,2.6
+TX-0274,B011,Jugo Natura mango 1L,1.5,1,1.5
+TX-0274,C008,Papel higienico x12,4.8,2,9.6
+TX-0274,C023,Guantes latex M,1.2,1,1.2
+TX-0275,A007,Azucar blanca 1kg,0.75,2,1.5
+TX-0275,C012,Detergente polvo 500g,1.6,2,3.2
+TX-0275,P001,Pan de molde integral,1.8,1,1.8
+TX-0275,G012,Curitas x20,1.2,2,2.4
+TX-0276,A007,Azucar blanca 1kg,0.75,1,0.75
+TX-0276,FV03,Tomate riñon 1kg,0.7,1,0.7
+TX-0276,P011,Muffin de chocolate,0.8,3,2.4
+TX-0276,G017,Preservativos x3,2.0,2,4.0
+TX-0277,A016,Pasta espagueti 500g,0.85,2,1.7
+TX-0277,P007,Bagel x4,2.2,3,6.6
+TX-0277,A021,Mayonesa 400g,1.8,2,3.6
+TX-0277,L020,Ricotta 250g,2.2,2,4.4
+TX-0277,FV14,Aguacate x2,1.5,1,1.5
+TX-0278,CM10,Jamon serrano 100g,3.5,3,10.5
+TX-0278,B015,Energizante Red Bull 250ml,2.8,2,5.6
+TX-0279,S003,Papas Pringles 124g,2.5,2,5.0
+TX-0279,C005,Shampoo anticaspa 400ml,3.8,1,3.8
+TX-0279,C001,Jabon de manos 250ml,1.2,1,1.2
+TX-0280,S016,Chocolatin 40g,0.7,3,2.1
+TX-0280,G004,Pasta dental blanqueadora,1.8,1,1.8
+TX-0281,A003,Arroz 5kg,4.2,1,4.2
+TX-0282,B004,Coca-Cola 600ml,1.25,1,1.25
+TX-0283,B005,Coca-Cola 1.5L,1.8,1,1.8
+TX-0284,A008,Azucar morena 1kg,0.9,1,0.9
+TX-0285,A005,Aceite de oliva 500ml,5.5,1,5.5
+TX-0286,A004,Aceite vegetal 1L,2.2,1,2.2

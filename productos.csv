@@ -1,0 +1,201 @@
+codigo,nombre,precio,categoria,descripcion
+B001,Agua mineral 500ml,0.5,Bebidas,Agua sin gas botella pequeña
+B002,Agua con gas 500ml,0.65,Bebidas,Agua carbonatada botella pequeña
+B003,Agua mineral 1.5L,0.9,Bebidas,Agua sin gas botella grande
+B004,Coca-Cola 600ml,1.25,Bebidas,Gaseosa cola botella mediana
+B005,Coca-Cola 1.5L,1.8,Bebidas,Gaseosa cola botella familiar
+B006,Sprite 600ml,1.2,Bebidas,Gaseosa lima-limón botella
+B007,Fanta naranja 600ml,1.2,Bebidas,Gaseosa sabor naranja
+B008,Pepsi 600ml,1.15,Bebidas,Gaseosa cola botella
+B009,Big Cola 1.5L,1.0,Bebidas,Gaseosa cola economica
+B010,Jugo Natura naranja 1L,1.5,Bebidas,Jugo natural de naranja
+B011,Jugo Natura mango 1L,1.5,Bebidas,Jugo natural de mango
+B012,Jugo Del Valle 500ml,1.1,Bebidas,Nectar de naranja
+B013,Jugo de mango 500ml,1.1,Bebidas,Nectar de mango
+B014,Energizante Monster 473ml,2.5,Bebidas,Bebida energizante lata
+B015,Energizante Red Bull 250ml,2.8,Bebidas,Bebida energizante lata pequeña
+B016,Energizante Volt 250ml,1.5,Bebidas,Bebida energizante economica
+B017,Gatorade naranja 600ml,1.3,Bebidas,Bebida isotonica naranja
+B018,Gatorade limon 600ml,1.3,Bebidas,Bebida isotonica limon
+B019,Powerade uva 600ml,1.25,Bebidas,Bebida isotonica uva
+B020,Te helado limon 500ml,1.0,Bebidas,Te frio sabor limon
+B021,Te helado durazno 500ml,1.0,Bebidas,Te frio sabor durazno
+B022,Leche entera 1L,0.95,Bebidas,Leche entera pasteurizada
+B023,Leche semidescremada 1L,1.05,Bebidas,Leche semidescremada
+B024,Leche deslactosada 1L,1.2,Bebidas,Leche sin lactosa
+B025,Leche de chocolate 1L,1.3,Bebidas,Leche sabor chocolate
+B026,Cocoa en polvo 400g,2.5,Bebidas,Cocoa para bebida caliente
+B027,Cafe instantaneo 100g,2.2,Bebidas,Cafe soluble frasco
+B028,Te en sobre x20,1.8,Bebidas,Sobres de te variado
+B029,Limonada 500ml,0.9,Bebidas,Limonada natural embotellada
+B030,Jugo de guayaba 500ml,1.1,Bebidas,Nectar de guayaba
+S001,Papas Lays 90g,1.1,Snacks,Papas fritas clasicas
+S002,Papas Ruffles 90g,1.1,Snacks,Papas fritas con ondas
+S003,Papas Pringles 124g,2.5,Snacks,Papas fritas en tubo
+S004,Doritos nachos 90g,1.2,Snacks,Tortillas de maiz con queso
+S005,Cheetos 80g,1.0,Snacks,Botanas de maiz con queso
+S006,Chifles 80g,0.75,Snacks,Platano verde frito
+S007,Maiz tostado 100g,0.6,Snacks,Maiz tostado con sal
+S008,Canguil dulce 50g,0.5,Snacks,Palomitas sabor dulce
+S009,Galletas Oreo 120g,1.5,Snacks,Galletas de chocolate con crema
+S010,Galletas Maria 200g,1.2,Snacks,Galletas de vainilla clasicas
+S011,Galletas Ritz 100g,1.3,Snacks,Galletas saladas crujientes
+S012,Galletas de coco 100g,0.9,Snacks,Galletas sabor coco
+S013,Mani con chocolate 50g,0.8,Snacks,Mani cubierto de chocolate
+S014,Mani salado 100g,0.7,Snacks,Mani tostado con sal
+S015,Barra de cereal 35g,0.6,Snacks,Barra nutritiva de cereal
+S016,Chocolatin 40g,0.7,Snacks,Chocolate con leche tableta
+S017,Kit Kat 42g,1.2,Snacks,Chocolate wafer con leche
+S018,Snickers 45g,1.3,Snacks,Chocolate con mani y caramelo
+S019,M&Ms 45g,1.5,Snacks,Confites de chocolate de colores
+S020,Gomas de fresa 100g,0.8,Snacks,Gomitas sabor fresa
+S021,Chicle Trident x12,0.6,Snacks,Chicle sin azucar menta
+S022,Caramelos surtidos 100g,0.75,Snacks,Caramelos duros variados
+S023,Paleta de chocolate,0.5,Snacks,Paleta sabor chocolate
+S024,Semillas girasol 80g,0.65,Snacks,Semillas tostadas con sal
+S025,Granola 200g,1.8,Snacks,Mezcla de cereales con miel
+L001,Yogur natural 200g,0.75,Lacteos,Yogur sin sabor con cultivos
+L002,Yogur fresa 200g,0.8,Lacteos,Yogur sabor fresa
+L003,Yogur mora 200g,0.8,Lacteos,Yogur sabor mora
+L004,Yogur durazno 200g,0.8,Lacteos,Yogur sabor durazno
+L005,Yogur griego 150g,1.2,Lacteos,Yogur griego sin azucar
+L006,Queso fresco 250g,1.8,Lacteos,Queso fresco ecuatoriano
+L007,Queso mozzarella 200g,2.2,Lacteos,Queso mozzarella para pizza
+L008,Queso cheddar 150g,2.5,Lacteos,Queso cheddar en lonchas
+L009,Queso parmesano rallado 80g,2.0,Lacteos,Parmesano rallado en sobre
+L010,Mantequilla 100g,1.5,Lacteos,Mantequilla sin sal
+L011,Margarina 250g,1.2,Lacteos,Margarina vegetal para untar
+L012,Huevos x6,1.3,Lacteos,Media docena de huevos
+L013,Huevos x12,2.5,Lacteos,Docena de huevos
+L014,Huevos x30,6.0,Lacteos,Bandeja de huevos
+L015,Crema de leche 250ml,1.2,Lacteos,Crema para cocinar
+L016,Natilla 500ml,1.5,Lacteos,Natilla para postres
+L017,Leche condensada 397g,2.0,Lacteos,Leche condensada azucarada
+L018,Leche evaporada 400ml,1.8,Lacteos,Leche evaporada sin azucar
+L019,Provolone 200g,2.8,Lacteos,Queso provolone importado
+L020,Ricotta 250g,2.2,Lacteos,Queso ricotta para reposteria
+P001,Pan de molde integral,1.8,Panaderia,Pan integral en rebanadas
+P002,Pan de molde blanco,1.5,Panaderia,Pan blanco en rebanadas
+P003,Pan de molde de ajo,2.0,Panaderia,Pan de ajo en rebanadas
+P004,Tostadas x20,1.3,Panaderia,Tostadas crujientes empacadas
+P005,Pan pita x6,1.8,Panaderia,Pan pita para sandwich
+P006,Croissant x4,2.0,Panaderia,Medialunas de mantequilla
+P007,Bagel x4,2.2,Panaderia,Pan bagel para sandwich
+P008,Tortillas de harina x8,1.5,Panaderia,Tortillas para burritos
+P009,Bizcocho 200g,1.8,Panaderia,Bizcocho azucarado empacado
+P010,Donuts x4,2.0,Panaderia,Rosquillas con glaseado
+P011,Muffin de chocolate,0.8,Panaderia,Muffin individual de chocolate
+P012,Muffin de vainilla,0.8,Panaderia,Muffin individual de vainilla
+P013,Pan de yuca 6 unid,1.5,Panaderia,Pan de queso y yuca
+P014,Churros empacados 100g,1.2,Panaderia,Churros dulces empacados
+P015,Wafer de vainilla 150g,1.1,Panaderia,Obleas rellenas de vainilla
+A001,Arroz 1kg,0.9,Abarrotes,Arroz blanco de primera
+A002,Arroz 2kg,1.75,Abarrotes,Arroz blanco bolsa mediana
+A003,Arroz 5kg,4.2,Abarrotes,Arroz blanco bolsa grande
+A004,Aceite vegetal 1L,2.2,Abarrotes,Aceite para cocinar
+A005,Aceite de oliva 500ml,5.5,Abarrotes,Aceite de oliva extra virgen
+A006,Aceite de girasol 1L,2.0,Abarrotes,Aceite de girasol refinado
+A007,Azucar blanca 1kg,0.75,Abarrotes,Azucar refinada blanca
+A008,Azucar morena 1kg,0.9,Abarrotes,Azucar morena sin refinar
+A009,Panela 1kg,0.7,Abarrotes,Panela de cana de azucar
+A010,Sal 500g,0.35,Abarrotes,Sal yodada fina
+A011,Atun en lata 180g,1.4,Abarrotes,Atun en aceite vegetal
+A012,Sardinas en lata 125g,1.1,Abarrotes,Sardinas en salsa de tomate
+A013,Maiz en lata 400g,1.2,Abarrotes,Maiz dulce en conserva
+A014,Frijoles en lata 400g,1.1,Abarrotes,Frijoles negros en conserva
+A015,Tomate en lata 400g,1.0,Abarrotes,Tomate triturado en conserva
+A016,Pasta espagueti 500g,0.85,Abarrotes,Espagueti de trigo durum
+A017,Pasta coditos 500g,0.85,Abarrotes,Macarrones de codo
+A018,Pasta fideos 500g,0.8,Abarrotes,Fideos finos para sopa
+A019,Salsa de tomate 500g,1.3,Abarrotes,Salsa de tomate ketchup
+A020,Mayonesa 200g,1.0,Abarrotes,Mayonesa clasica sobre
+A021,Mayonesa 400g,1.8,Abarrotes,Mayonesa clasica frasco
+A022,Mostaza 200g,0.9,Abarrotes,Mostaza amarilla clasica
+A023,Salsa de soya 150ml,1.2,Abarrotes,Salsa soya oscura
+A024,Vinagre 500ml,0.8,Abarrotes,Vinagre blanco de mesa
+A025,Comino molido 50g,0.6,Abarrotes,Comino en polvo
+A026,Oregano 20g,0.5,Abarrotes,Oregano seco molido
+A027,Ajo en polvo 50g,0.7,Abarrotes,Ajo deshidratado en polvo
+A028,Pimienta negra 30g,0.8,Abarrotes,Pimienta negra molida
+A029,Harina de trigo 1kg,0.9,Abarrotes,Harina blanca para reposteria
+A030,Avena en hojuelas 500g,1.2,Abarrotes,Avena entera para desayuno
+A031,Lentejas 500g,1.1,Abarrotes,Lentejas secas para cocinar
+A032,Arvejas 500g,1.0,Abarrotes,Arvejas secas partidas
+A033,Miel de abeja 350g,3.5,Abarrotes,Miel pura de abeja
+A034,Mermelada fresa 300g,1.8,Abarrotes,Mermelada de fresa
+A035,Mermelada mora 300g,1.8,Abarrotes,Mermelada de mora
+C001,Jabon de manos 250ml,1.2,Limpieza,Jabon liquido antibacterial
+C002,Jabon de bano x3,1.5,Limpieza,Pastillas de jabon corporal
+C003,Jabon en barra 150g,0.8,Limpieza,Jabon de lavanderia
+C004,Shampoo 400ml,3.5,Limpieza,Shampoo cabello normal
+C005,Shampoo anticaspa 400ml,3.8,Limpieza,Shampoo control caspa
+C006,Acondicionador 400ml,3.5,Limpieza,Acondicionador para cabello
+C007,Papel higienico x4,1.8,Limpieza,Rollo doble hoja x4
+C008,Papel higienico x12,4.8,Limpieza,Rollo doble hoja x12
+C009,Papel higienico x24,9.0,Limpieza,Rollo doble hoja x24
+C010,Toallas de cocina x2,2.0,Limpieza,Papel absorvente cocina
+C011,Servilletas x100,1.2,Limpieza,Servilletas de papel
+C012,Detergente polvo 500g,1.6,Limpieza,Detergente ropa en polvo
+C013,Detergente polvo 1kg,2.8,Limpieza,Detergente ropa familiar
+C014,Detergente liquido 500ml,2.0,Limpieza,Detergente ropa liquido
+C015,Suavizante ropa 500ml,2.0,Limpieza,Suavizante concentrado
+C016,Lavavajillas 500ml,1.5,Limpieza,Liquido lava platos
+C017,Lavavajillas 1L,2.5,Limpieza,Liquido lava platos grande
+C018,Cloro 1L,1.2,Limpieza,Blanqueador a base de cloro
+C019,Desinfectante piso 1L,2.0,Limpieza,Desinfectante fragancia lavanda
+C020,Limpiador multiusos 500ml,1.8,Limpieza,Limpiador para superficies
+C021,Esponjas x3,1.0,Limpieza,Esponjas de cocina doble uso
+C022,Guantes latex S,1.2,Limpieza,Guantes de latex talla S
+C023,Guantes latex M,1.2,Limpieza,Guantes de latex talla M
+C024,Bolsas de basura x10,1.5,Limpieza,Bolsas negras 50L
+C025,Repelente mosquitos 100ml,2.5,Limpieza,Repelente de insectos spray
+G001,Desodorante roll-on 50ml,2.8,Personal,Desodorante sin alcohol
+G002,Desodorante spray 150ml,3.0,Personal,Desodorante aerosol
+G003,Pasta dental 100ml,1.5,Personal,Pasta dental con fluor
+G004,Pasta dental blanqueadora,1.8,Personal,Pasta dental blanqueadora
+G005,Cepillo dental suave,1.2,Personal,Cepillo de cerdas suaves
+G006,Cepillo dental medio,1.2,Personal,Cepillo de cerdas medias
+G007,Enjuague bucal 250ml,2.5,Personal,Enjuague bucal menta
+G008,Hilo dental 50m,1.0,Personal,Hilo dental encerado
+G009,Afeitadora x2,2.5,Personal,Afeitadora desechable doble hoja
+G010,Crema de afeitar 100ml,1.8,Personal,Espuma para afeitar
+G011,Algodon 100g,1.0,Personal,Algodon absorbente bolsa
+G012,Curitas x20,1.2,Personal,Curitas adhesivas surtidas
+G013,Alcohol 70% 250ml,1.5,Personal,Alcohol isopropilico
+G014,Agua oxigenada 250ml,0.9,Personal,Agua oxigenada 10 volumenes
+G015,Protector solar FPS50,4.5,Personal,Protector solar 100ml
+G016,Crema humectante 200ml,3.0,Personal,Crema hidratante corporal
+G017,Preservativos x3,2.0,Personal,Preservativos lubricados
+G018,Toallas higienicas x8,2.5,Personal,Toallas femeninas con alas
+G019,Tampones x8,2.8,Personal,Tampones de insercion
+G020,Pañal bebe talla M x10,5.0,Personal,Pañales desechables talla M
+G021,Toallas humedas x20,1.8,Personal,Toallitas humedas
+G022,Gel antibacterial 60ml,1.2,Personal,Gel de manos sin agua
+G023,Peinilla,0.8,Personal,Peinilla de plastico
+G024,Cotonetes x50,0.9,Personal,Hisopos de algodon
+G025,Maquinilla depiladora,1.5,Personal,Maquinilla desechable mujer
+FV01,Papas 1kg,0.8,Frutas/Verduras,Papas frescas para cocinar
+FV02,Cebolla 1kg,0.6,Frutas/Verduras,Cebolla paiteña roja
+FV03,Tomate riñon 1kg,0.7,Frutas/Verduras,Tomate riñon fresco
+FV04,Pimiento verde 500g,0.6,Frutas/Verduras,Pimientos verdes frescos
+FV05,Manzana roja x4,1.2,Frutas/Verduras,Manzanas rojas frescas
+FV06,Naranja x6,1.0,Frutas/Verduras,Naranjas jugosas para jugo
+FV07,Banano x6,0.6,Frutas/Verduras,Bananos maduros frescos
+FV08,Pera x4,1.3,Frutas/Verduras,Peras verdes frescas
+FV09,Uva roja 500g,2.0,Frutas/Verduras,Uvas rojas sin semilla
+FV10,Limon x6,0.5,Frutas/Verduras,Limones frescos para jugo
+FV11,Mandarina x6,0.9,Frutas/Verduras,Mandarinas dulces frescas
+FV12,Maracuya 500g,1.0,Frutas/Verduras,Maracuyas frescos para jugo
+FV13,Frutilla 250g,1.2,Frutas/Verduras,Fresas frescas
+FV14,Aguacate x2,1.5,Frutas/Verduras,Aguacates medianos maduros
+FV15,Brocoli 500g,0.8,Frutas/Verduras,Brocoli fresco
+CM01,Salchicha 250g,1.8,Carnes,Salchicha tipo viena
+CM02,Mortadela 200g,1.5,Carnes,Mortadela clasica en lonjas
+CM03,Jamon de pierna 200g,2.0,Carnes,Jamon cocido en lonjas
+CM04,Chorizo 250g,2.5,Carnes,Chorizo ahumado para asar
+CM05,Salami 150g,2.2,Carnes,Salami tipo italiano
+CM06,Pernil ahumado 200g,2.8,Carnes,Pernil de cerdo ahumado
+CM07,Pollo molido 500g,2.5,Carnes,Carne de pollo molida
+CM08,Carne molida de res 500g,3.5,Carnes,Carne de res molida
+CM09,Nuggets de pollo 300g,3.0,Carnes,Nuggets precocidos de pollo
+CM10,Jamon serrano 100g,3.5,Carnes,Jamon serrano importado
