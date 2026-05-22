@@ -41,7 +41,7 @@ Se recomienda revisar los capítulos asignados en la planificación de la asigna
 
 Clonar el repositorio:
     ```bash
-    git clone [https://github.com/ivan-carrera/isi26a](https://github.com/ivan-carrera/isi26a)
+    git clone https://github.com/ivan-carrera/isi26a/
     ```
 
 Crear una rama para tu equipo (en caso de proyectos):
